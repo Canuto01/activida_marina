@@ -30,11 +30,19 @@ p{
     color: white;
 }
 
+h1{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
 body {
     background-image: url(https://blog.redbus.co/wp-content/uploads/2020/02/portada-2-1280x720.jpg);
     background-position: none;
     background-size: cover;
     background-repeat: no-repeat;
-    filter: contrast(50%);
+    filter: contrast(100%);
   }
   
