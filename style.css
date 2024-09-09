@@ -4,19 +4,23 @@
     box-sizing: border-box;
 }
 ul{
-    position: relative;
-    height: 70px;
-    left: 810px;
+    list-style: none;
+    overflow: hidden;
+    background-color: black;
+    color: white;
 }
 
-li{
-    display: inline-block;
-    margin-left: 5px;
-    width: 90px;
-    height: 40px;
-    padding-top: 25px;
-    font-weight: bold;
-    list-style: none;
+li a{
+    display: block;
+    color: white;
     text-align: center;
-    text-transform: uppercase;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 14px 16px;
+    text-decoration: none;  
+}
+
+li a :hover{
+    background-color: white;
+    color: black;
 }
