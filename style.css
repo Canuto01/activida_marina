@@ -31,16 +31,15 @@ p{
 }
 
 h1{
-    color: black;
+    color: rgb(255, 5, 5);
 }
 
 h2{
-    color: black;
+    color: rgb(252, 0, 0);
 }
 
 body {
     background-image: url(https://blog.redbus.co/wp-content/uploads/2020/02/portada-2-1280x720.jpg);
-    background: black;
     background-position: none;
     background-size: cover;
     background-repeat: no-repeat;
