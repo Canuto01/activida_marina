@@ -26,7 +26,10 @@ li a :hover{
     color: black;
 }
 
-.box{
-    background-image: url(fondo.jpg)
-
-}
+body {
+    background-image: url(fondo.jpg);
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+  }
+  
