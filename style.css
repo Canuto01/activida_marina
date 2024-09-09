@@ -23,7 +23,11 @@ li a{
 
 li a :hover{
     background-color: white;
-    color: white;
+    color: black;
+}
+
+p{
+    color: aliceblue;
 }
 
 body {
