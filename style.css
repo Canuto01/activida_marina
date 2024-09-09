@@ -9,13 +9,14 @@ ul{
     background-color: black;
     color: white;
 }
+li{
+    float: left;
+}
 
 li a{
     display: block;
     color: white;
     text-align: center;
-    font-family: sans-serif;
-    font-weight: bold;
     padding: 14px 16px;
     text-decoration: none;  
 }
