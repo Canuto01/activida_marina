@@ -27,12 +27,7 @@ li a :hover{
 }
 
 body {
-    background:
-        linear-gradient(
-            rgba(0, 0, 0, 0.5),
-            rgba(0, 0, 0, 0.5)
-        ),
-        url(https://blog.redbus.co/wp-content/uploads/2020/02/portada-2-1280x720.jpg);
+    background-image: url(https://blog.redbus.co/wp-content/uploads/2020/02/portada-2-1280x720.jpg);
     background-position: none;
     background-size: cover;
     background-repeat: no-repeat;
