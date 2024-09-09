@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    position: relative;
+    height: 70px;
+    left: 810px;
+}
+
+li{
+    display: inline-block;
+    margin-left: 5px;
+    width: 90px;
+    height: 40px;
+    padding-top: 25px;
+    font-weight: bold;
+    list-style: none;
+    text-align: center;
+    text-transform: uppercase;
+}
